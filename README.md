@@ -1,6 +1,6 @@
 ### Hi there 👋
 
- 🔭 I’m currently working on Hotech Company!</br>
+ 🔭 I’m currently working on Hotech Company! (Flutter Mobile Developer) </br>
  🌱 I’m currently learning Swift.</br>
  🤔 I’m looking for help with Swift.</br>
  💬 Ask me about Flutter.</br>
